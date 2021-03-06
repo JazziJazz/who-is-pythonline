@@ -8,3 +8,12 @@ _**Criador**_:
 _Rodrigo S#7737_
 
 Com ❤️ Rodrigo Siliunas, Jazz.
+
+## Como rodar o arquívo main?
+
+É muito simples, o código é desenvolvido com Python 3.9.6. Possui um total de duas dependências até o momento, tudo que você precisa fazer é utilizar o enviroment e depois executar o código.
+
+Caso você esteja no **Windows**, abra um terminal ou powershell no diretório principal e execute o comando:
+```
+.\venv\scripts\activate
+```
