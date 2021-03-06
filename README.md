@@ -15,5 +15,5 @@ Com ❤️ Rodrigo Siliunas, Jazz.
 
 Caso você esteja no **Windows**, abra um terminal ou powershell no diretório principal e execute o comando:
 ```
-.\venv\scripts\activate
+.\enviroment\scripts\activate
 ```
