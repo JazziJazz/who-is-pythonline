@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Rodrigo Siliunas\Desktop\who-is-pythonline\enviroment"
+VIRTUAL_ENV="C:\Users\Rodrigo Siliunas\Desktop\python-web-scrapping\enviroment"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
